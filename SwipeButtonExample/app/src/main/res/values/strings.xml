@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeButtonExample</string>
+    <string name="button_text">SWIPE</string>
+</resources>
